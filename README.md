@@ -5,10 +5,10 @@
 - Core Data
 
 # Screenshots
-![tableview](https://github.com/MutluClkn/Map_App/blob/main/Images/1.png)
-![pin](https://github.com/MutluClkn/Map_App/blob/main/Images/2.png)
-![alert](https://github.com/MutluClkn/Map_App/blob/main/Images/3.png)
-![delete](https://github.com/MutluClkn/Map_App/blob/main/Images/4.png)
+![tableview](https://github.com/MutluClkn/Map_App/blob/main/Images/1.png = 250x250)
+![pin](https://github.com/MutluClkn/Map_App/blob/main/Images/2.png = 250x250)
+![alert](https://github.com/MutluClkn/Map_App/blob/main/Images/3.png = 250x250)
+![delete](https://github.com/MutluClkn/Map_App/blob/main/Images/4.png = 250x250)
 
 # GIF
-![appGIF](https://github.com/MutluClkn/Map_App/blob/main/Images/mapAppGIF.gif)
+![appGIF](https://github.com/MutluClkn/Map_App/blob/main/Images/mapAppGIF.gif = 250x250)
