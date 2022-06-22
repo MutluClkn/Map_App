@@ -5,7 +5,7 @@
 - Core Data
 
 # Screenshots
-![tableview](<img src="https://github.com/MutluClkn/Map_App/blob/main/Images/1.png " width="250">)
+<img src="https://github.com/MutluClkn/Map_App/blob/main/Images/1.png " width="250">
 ![pin](https://github.com/MutluClkn/Map_App/blob/main/Images/2.png = 250x250)
 ![alert](https://github.com/MutluClkn/Map_App/blob/main/Images/3.png = 250x250)
 ![delete](https://github.com/MutluClkn/Map_App/blob/main/Images/4.png = 250x250)
