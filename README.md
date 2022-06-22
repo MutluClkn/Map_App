@@ -8,6 +8,8 @@
 <p float="left">
 <img src="https://github.com/MutluClkn/Map_App/blob/main/Images/1.png " width="250">
 <img src="https://github.com/MutluClkn/Map_App/blob/main/Images/2.png " width="250">
+</p>
+<p float="left">
 <img src="https://github.com/MutluClkn/Map_App/blob/main/Images/3.png " width="250">
 <img src="https://github.com/MutluClkn/Map_App/blob/main/Images/4.png " width="250">
 </p>
